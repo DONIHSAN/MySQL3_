@@ -159,4 +159,8 @@ Dalam DML, pengguna dapat menggunakan perintah SQL (Structured Query Language) u
 
 ***Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.***
 
+<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
+
+- [Link Laporan Praktikum](https://docs.google.com/document/d/1ZAfeS9WCGe560KWWInXV93w66mofY1fy/edit?usp=sharing&ouid=117024232096925929007&rtpof=true&sd=true)
+
 ## Finish....
